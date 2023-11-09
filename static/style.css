@@ -1,0 +1,42 @@
+body {
+    background: #fff2cc;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.navbar {
+    padding-top: 20px;
+}
+
+.navbar__logo {
+    display: inline;
+}
+
+.navbar__logo a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+ul {
+    display: inline;
+}
+
+nav {
+    overflow: hidden;
+    padding-right: 50px;
+}
+
+li a {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
